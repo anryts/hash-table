@@ -1,0 +1,7 @@
+bboaa 1+I*3	
+aboz 1+I*32
+anb 1+I*1
+awd -1+I*3
+e 2+I*3
+ed 0+I*2
+ababo 23+I*10
